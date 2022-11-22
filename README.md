@@ -1,5 +1,5 @@
 # SendVerificationEmailAction
-Invocable Action to send verification email to Salesforce users who have not yet verified their email address.
+Invocable Action + Flow to send verification email to Salesforce users who have not yet verified their email address.
 
 # Overview
 Salesforce requires that you use a verified email address to continue sending emails through Salesforce, such as sends to contacts or leads. Most users verify their email address as part of the sign-up process. However, some users continue to use email addresses that were created and verified before the current verification process was established.
